@@ -45,7 +45,7 @@ class _HomeState extends State<Home> {
     return Scaffold(
       backgroundColor: Colors.grey[100],
       appBar: AppBar(
-        title: Text("ACTIVITIES"),
+        title: const Text("ACTIVITIES"),
       ),
       body: Column(children: [
 
